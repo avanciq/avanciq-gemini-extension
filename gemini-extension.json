@@ -1,0 +1,11 @@
+{
+  "name": "avanciq",
+  "version": "0.1.2",
+  "description": "Official VAT/GST rates on a date, BR/MX/PL tax-code validity, EN 16931 e-invoice checks and exact business sums, with sources.",
+  "mcpServers": {
+    "avanciq": {
+      "httpUrl": "https://api.avanciq.com/connect/mcp"
+    }
+  },
+  "contextFileName": "AVANCIQ.md"
+}
